@@ -1,0 +1,1272 @@
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:19:31'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:19:31'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:19:31'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:43:05'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:43:05'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:43:05'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:47:07'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:47:07'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:47:07'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:53:54'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:53:54'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:53:54'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:55:09'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:55:09'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:55:09'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:56:03'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:56:03'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:56:03'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:57:45'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:57:45'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:57:45'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:58:40'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:58:40'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:58:40'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:59:53'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:59:53'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 15:59:53'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:01:33'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:01:33'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:01:33'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:09:21'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:09:21'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:09:21'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:17:20'
+}
+{
+  message: '📊 Environment: development',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:17:20'
+}
+{
+  message: '🌐 CORS enabled for: http://localhost:3000',
+  level: 'info',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:17:20'
+}
+{
+  message: 'Not authorized to access this route',
+  stack: undefined,
+  url: '/api/auth/me',
+  method: 'GET',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:00'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:01'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}
+{
+  message: 'Refresh token not provided',
+  stack: undefined,
+  url: '/api/auth/refresh',
+  method: 'POST',
+  ip: '::1',
+  userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36',
+  level: 'error',
+  service: 'stayora-backend',
+  timestamp: '2026-03-18 16:24:02'
+}

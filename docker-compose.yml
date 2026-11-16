@@ -1,0 +1,75 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    container_name: stayora-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: stayora
+      POSTGRES_USER: stayora_user
+      POSTGRES_PASSWORD: stayora_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - stayora-network
+
+  # Backend API
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: stayora-backend
+    restart: unless-stopped
+    environment:
+      NODE_ENV: development
+      DATABASE_URL: postgresql://stayora_user:stayora_password@postgres:5432/stayora
+      JWT_SECRET: your-super-secret-jwt-key-change-in-production
+      JWT_REFRESH_SECRET: your-super-secret-refresh-key-change-in-production
+      JWT_EXPIRES_IN: 15m
+      JWT_REFRESH_EXPIRES_IN: 7d
+      PORT: 5000
+      FRONTEND_URL: http://localhost:3000
+    ports:
+      - "5000:5000"
+    depends_on:
+      - postgres
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    networks:
+      - stayora-network
+    command: npm run dev
+
+  # Frontend Next.js
+  frontend:
+    build:
+      context: ./frontend/stayora
+      dockerfile: Dockerfile
+    container_name: stayora-frontend
+    restart: unless-stopped
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:5000/api
+      NEXT_PUBLIC_MAPBOX_TOKEN: your_mapbox_token_here
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend/stayora:/app
+      - /app/node_modules
+      - /app/.next
+    networks:
+      - stayora-network
+    command: npm run dev
+
+volumes:
+  postgres_data:
+
+networks:
+  stayora-network:
+    driver: bridge

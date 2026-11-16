@@ -1,6 +1,6 @@
-const CACHE_NAME = "stayora-v1.0.0";
-const STATIC_CACHE_NAME = "stayora-static-v1.0.0";
-const DYNAMIC_CACHE_NAME = "stayora-dynamic-v1.0.0";
+const CACHE_NAME = "stayora-v1.0.1";
+const STATIC_CACHE_NAME = "stayora-static-v1.0.1";
+const DYNAMIC_CACHE_NAME = "stayora-dynamic-v1.0.1";
 
 // Assets to cache on install
 const STATIC_ASSETS = [
@@ -16,6 +16,17 @@ const API_CACHE_PATTERNS = [
   /^https:\/\/api\.stayora\.com\/properties/,
   /^https:\/\/api\.stayora\.com\/amenities/,
 ];
+
+// Backend API requests must never be intercepted by the service worker.
+// Letting the browser handle them preserves normal CORS and cookie behavior.
+function isBackendApiRequest(url) {
+  return (
+    url.pathname === "/api" ||
+    url.pathname.startsWith("/api/") ||
+    url.port === "5000" ||
+    url.hostname === "api.stayora.com"
+  );
+}
 
 // Install event - cache static assets
 self.addEventListener("install", (event) => {
@@ -71,12 +82,19 @@ self.addEventListener("fetch", (event) => {
   const { request } = event;
   const url = new URL(request.url);
 
+  // Never intercept backend API traffic. Returning without calling
+  // event.respondWith() lets the browser send the request directly, applying
+  // standard CORS rules and including credentials where allowed.
+  if (isBackendApiRequest(url)) {
+    return;
+  }
+
   // Skip non-GET requests
   if (request.method !== "GET") {
     return;
   }
 
-  // Handle API requests
+  // Handle other cross-origin requests
   if (url.origin !== location.origin) {
     event.respondWith(handleApiRequest(request));
     return;

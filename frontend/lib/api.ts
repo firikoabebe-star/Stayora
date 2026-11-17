@@ -1,8 +1,30 @@
 import axios from 'axios'
 import Cookies from 'js-cookie'
 import toast from 'react-hot-toast'
+import { useAuthStore } from '@/lib/store'
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api'
+const REFRESH_URL = '/auth/refresh'
+const LOGIN_URL = '/auth/login'
+
+const clearAuthSession = () => {
+  Cookies.remove('token')
+  Cookies.remove('refreshToken')
+  useAuthStore.getState().logout()
+
+  if (typeof window === 'undefined') return
+
+  const path = window.location.pathname
+  const isProtectedRoute =
+    path.startsWith('/dashboard') ||
+    path.startsWith('/admin') ||
+    path.startsWith('/booking')
+  const isAuthPage = path.startsWith('/auth/')
+
+  if (isProtectedRoute && !isAuthPage) {
+    window.location.replace(LOGIN_URL)
+  }
+}
 
 // Create axios instance
 export const api = axios.create({
@@ -32,28 +54,50 @@ api.interceptors.response.use(
   (response) => response,
   async (error) => {
     const originalRequest = error.config
+    const status = error.response?.status
+    const requestUrl: string = originalRequest?.url || ''
+    const isRefreshRequest = requestUrl.includes(REFRESH_URL)
+    const isAuthRequest =
+      requestUrl.includes('/auth/login') || requestUrl.includes('/auth/register')
 
-    if (error.response?.status === 401 && !originalRequest._retry) {
+    // Never try to refresh the refresh endpoint itself or auth entry points.
+    // Without this guard, a failed refresh re-enters this interceptor forever.
+    if (isRefreshRequest || isAuthRequest) {
+      if (isRefreshRequest && (status === 401 || status === 403)) {
+        clearAuthSession()
+      }
+      return Promise.reject(error)
+    }
+
+    if (status === 401 && originalRequest && !originalRequest._retry) {
       originalRequest._retry = true
 
       try {
         // Try to refresh token
-        await api.post('/auth/refresh')
+        await api.post(REFRESH_URL)
         return api(originalRequest)
       } catch (refreshError) {
-        // Refresh failed, redirect to login
-        Cookies.remove('token')
-        Cookies.remove('refreshToken')
-        window.location.href = '/auth/login'
+        const refreshStatus = axios.isAxiosError(refreshError)
+          ? refreshError.response?.status
+          : undefined
+
+        // Refresh token is invalid/expired, so clear the session and
+        // optionally redirect instead of retrying in a loop.
+        if (refreshStatus === 401 || refreshStatus === 403) {
+          clearAuthSession()
+        }
+
         return Promise.reject(refreshError)
       }
     }
 
-    // Show error toast for non-401 errors
-    if (error.response?.data?.error) {
-      toast.error(error.response.data.error)
-    } else {
-      toast.error('Something went wrong')
+    // Show error toast for non-401 errors to avoid noisy auth failures
+    if (status !== 401) {
+      if (error.response?.data?.error) {
+        toast.error(error.response.data.error)
+      } else {
+        toast.error('Something went wrong')
+      }
     }
 
     return Promise.reject(error)
